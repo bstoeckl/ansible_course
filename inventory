@@ -1,4 +1,7 @@
-42.1.1.184 apache_package=apache2 php_package=libapache2-mod-php
-42.1.1.181 apache_package=httpd php_package=php
+[web_servers]
+42.1.1.184 
+
+[db_servers]
+42.1.1.181
 
 
